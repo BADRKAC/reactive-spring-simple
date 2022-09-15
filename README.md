@@ -18,6 +18,6 @@ can build the JAR file with ./mvnw clean package and then run the JAR file, as f
 
 java -jar target/reactive-spring-simple-0.1.0.jar
 
-# open a browser and go to the url below and see, “Hello, Spring!” :
+# open a browser and go to the url below and see, “Hello, Spring!”
 
 URL : http://localhost:8080/hello
